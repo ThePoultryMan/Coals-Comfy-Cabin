@@ -35,13 +35,13 @@
       Keep all conversations in their proper channels. If two conversations are happening over each
       other, don't be afraid to create a thread to keep things organized.
 
-- type: embeds
+- type: links
 
-  embeds:
-    - title: Links
-      description: >
-        **»** [ThePoultryMan's GitHub](https://github.com/ThePoultryMan)
-        **»** [ThePoultryMan's Modrinth](https://modrinth.com/user/ThePoultryMan)
-        **»** [ThePoultryMan's CurseForge](https://www.curseforge.com/members/coaltheburnrock)
-        **»** [ThePoultryMan's Ko-Fi](https://kofi.com/thepoultryman)
-        **»** [BisectHosting (25% Off First Month)](https://bisecthosting.com/poultryman)
+  title: Useful Links
+
+  links:
+    ThePoultryMan's GitHub: https://github.com/ThePoultryMan
+    ThePoultryMan's Modrinth: https://modrinth.com/user/ThePoultryMan
+    ThePoultryMan's CurseForge: https://www.curseforge.com/members/coaltheburnrock
+    ThePoultryMan's Ko-Fi: https://kofi.com/thepoultryman
+    BisectHosting (25% Off First Month): https://bisecthosting.com/poultryman
