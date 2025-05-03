@@ -1,0 +1,47 @@
+- type: embed
+
+  embeds:
+    - title: Welcome to Coal's Comfy Cabin
+
+      description: >
+        We hope you enjoy your stay!
+
+        Before you start chatting, make sure you have read the rules (listed below).
+
+        Change your roles at any time using the <id:customize> button at the top of the channel list.
+
+- type: rules
+
+  rules:
+    Follow Discord's Rules: >
+      Everyone within the server must follow [Community Guidelines](https://discord.com/guidelines)
+      and [Terms of Service](https://discord.com/terms).
+    
+    Try to Speak English: >
+      This server is English based and cannot be moderated properly if everyone doesn't talk in
+      English. It is not an issue if you need a translator, and we will not tolerate users who make
+      fun of those with poor and/or translated English.
+    
+    Be Respectful: >
+      Be nice and keep all discussions civil. If someone is making you angry, do not retaliate
+      against them. If you have a problem with them, go through the proper channels to voice your
+      frustrations.
+    
+    Don't Spam: >
+      Attempt to keep repeated messages and pings to a minimum. If someone asks you not to ping them,
+      do not ping them.
+    
+    Respect Channels: >
+      Keep all conversations in their proper channels. If two conversations are happening over each
+      other, don't be afraid to create a thread to keep things organized.
+  
+- type: embeds
+
+  embeds:
+    - title: Links
+      description: >
+        **»** [ThePoultryMan's GitHub](https://github.com/ThePoultryMan)
+        **»** [ThePoultryMan's Modrinth](https://modrinth.com/user/ThePoultryMan)
+        **»** [ThePoultryMan's CurseForge](https://www.curseforge.com/members/coaltheburnrock)
+        **»** [ThePoultryMan's Ko-Fi](https://kofi.com/thepoultryman)
+        **»** [BisectHosting (25% Off First Month)](https://bisecthosting.com/poultryman)
